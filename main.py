@@ -47,7 +47,7 @@ if __name__ == "__main__":
 
 
     # Ejemplo de uso tarea 3
-    archivo_problema = 'ejemploExam.txt' # Reemplazar el con el nombre del archivo que se quiere probar
+    archivo_problema = 'archivoLectura.txt' # Reemplazar el con el nombre del archivo que se quiere probar
     problema, estrategia, profundidad_maxima = leer_ejemplo(archivo_problema)
     tipo_heuristica = 'Hmanhattan' #PUEDE CAMBIAR
 
