@@ -1,5 +1,0 @@
-file:NuevoMapa.hdf5
-init:(3118201, 270733)
-goal:(3107001, 288733)
-strategy:DFS
-max_depth:219
